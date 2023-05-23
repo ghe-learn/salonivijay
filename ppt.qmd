@@ -1,0 +1,51 @@
+---
+title: "my-first-ppt"
+format: revealjs
+editor: visual
+---
+
+# Heading 1
+
+# Heading 2
+
+## subheading 1
+
+## subheading 2
+
+-   item 1
+
+-   item 2
+
+Below should be numbered
+
+1.  item 3
+
+2.  item 4
+
+[^1]
+
+[^1]: footnote added
+
+## subheading 3
+
+::: aside
+added aside
+:::
+
+## subheading 4
+
+::: footer
+Added footer
+:::
+
+## 
+
+subheading 5
+
+::: {.notes}
+I will add notes here
+:::
+
+## Thank you
+
+![](photo.jpeg){width="362"}
